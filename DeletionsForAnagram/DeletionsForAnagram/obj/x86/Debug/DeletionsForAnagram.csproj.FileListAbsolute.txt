@@ -1,0 +1,5 @@
+/Users/luis/Projects/HackerRank/DeletionsForAnagram/DeletionsForAnagram/bin/Debug/DeletionsForAnagram.exe
+/Users/luis/Projects/HackerRank/DeletionsForAnagram/DeletionsForAnagram/bin/Debug/DeletionsForAnagram.pdb
+/Users/luis/Projects/HackerRank/DeletionsForAnagram/DeletionsForAnagram/obj/x86/Debug/DeletionsForAnagram.csproj.CoreCompileInputs.cache
+/Users/luis/Projects/HackerRank/DeletionsForAnagram/DeletionsForAnagram/obj/x86/Debug/DeletionsForAnagram.exe
+/Users/luis/Projects/HackerRank/DeletionsForAnagram/DeletionsForAnagram/obj/x86/Debug/DeletionsForAnagram.pdb
