@@ -1,0 +1,5 @@
+/Users/luis/Documents/HackerRank/Bon-Appetit/Bon-Appetit/bin/Debug/Bon-Appetit.exe
+/Users/luis/Documents/HackerRank/Bon-Appetit/Bon-Appetit/bin/Debug/Bon-Appetit.pdb
+/Users/luis/Documents/HackerRank/Bon-Appetit/Bon-Appetit/obj/x86/Debug/Bon-Appetit.csproj.CoreCompileInputs.cache
+/Users/luis/Documents/HackerRank/Bon-Appetit/Bon-Appetit/obj/x86/Debug/Bon-Appetit.exe
+/Users/luis/Documents/HackerRank/Bon-Appetit/Bon-Appetit/obj/x86/Debug/Bon-Appetit.pdb
